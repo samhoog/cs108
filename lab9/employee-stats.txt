@@ -1,0 +1,7 @@
+Maximum Salary: Blair, Suki: CEO ($182123)
+Minimum Salary: Curtis, Tad: Staff ($20106)
+Rank	Average Salary
+Staff	57075.39
+VP	101078.00
+Manager	70055.95
+CEO	182123.00
